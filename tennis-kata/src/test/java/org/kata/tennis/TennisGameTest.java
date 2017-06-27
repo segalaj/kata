@@ -1,4 +1,4 @@
-package org.segalaj;
+package org.kata.tennis;
 
 public class TennisGameTest {
 
